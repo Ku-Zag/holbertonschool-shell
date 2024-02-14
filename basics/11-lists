@@ -1,2 +1,3 @@
 #!/bin/bash
-ls -la /holbertonschool-shell/basics /holbertonschool-shell /boot
+ls -la ./* "$(dirname "$PWD")" /boot
+
