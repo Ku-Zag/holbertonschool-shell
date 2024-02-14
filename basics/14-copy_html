@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -u /holbertonschool-shell/basics/*.html /holbertonschool-shell
+cp --update *.html /holbertonschool-shell
