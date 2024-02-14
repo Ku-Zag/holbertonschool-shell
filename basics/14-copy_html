@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -u *.html holbertonschool-shell
+cp -n -u *.html /holbertonschool-shell
