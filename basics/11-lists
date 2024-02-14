@@ -1,3 +1,2 @@
 #!/bin/bash
 ls -la ./* "$(dirname "$PWD")" /boot
-
